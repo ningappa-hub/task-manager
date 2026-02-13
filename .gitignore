@@ -1,0 +1,15 @@
+# Root .gitignore for MERN project
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# System files
+.env.local
